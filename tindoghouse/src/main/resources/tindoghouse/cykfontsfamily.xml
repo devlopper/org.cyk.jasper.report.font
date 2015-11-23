@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <fontFamilies>
 
-   <fontFamily name="Tin Birdhouse">
-       <normal><![CDATA[normal.ttf]]></normal>
+   <fontFamily name="">
+       <normal><![CDATA[tindoghouse/normal.ttf]]></normal>
        <pdfEmbedded><![CDATA[true]]></pdfEmbedded>
    </fontFamily>
 

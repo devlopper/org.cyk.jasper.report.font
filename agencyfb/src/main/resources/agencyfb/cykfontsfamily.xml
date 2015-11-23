@@ -2,7 +2,7 @@
 <fontFamilies>
 
    <fontFamily name="Agency FB">
-       <normal><![CDATA[normal.ttf]]></normal>
+       <normal><![CDATA[agencyfb/normal.ttf]]></normal>
        <pdfEmbedded><![CDATA[true]]></pdfEmbedded>
    </fontFamily>
 
