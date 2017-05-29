@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fontFamilies>
+
+   <fontFamily name="Deja vue">
+       <normal><![CDATA[dejavu/normal.ttf]]></normal>
+       <pdfEmbedded><![CDATA[true]]></pdfEmbedded>
+   </fontFamily>
+
+</fontFamilies>
