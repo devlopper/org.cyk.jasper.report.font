@@ -4,17 +4,14 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<parent>
-		<groupId>org.cyk.pom</groupId>
-		<artifactId>global</artifactId>
-		<version>gp.0.0.1</version>
+		<groupId>org.cyk.jasper.report.font</groupId>
+		<artifactId>jasper-report-font-_pom</artifactId>
+		<version>0.0.1</version>
 	</parent>
 
-	<name>jasper report font</name>
-	<url>http://www.cykcorp.org</url> 
+	<name>jasper report font agency</name>
 	
-	<groupId>org.cyk.jasper.report.font</groupId>
 	<artifactId>jasper-report-font-agencyfb</artifactId>
-	<version>0.0.1</version>
 	<packaging>jar</packaging>
 
 </project>
